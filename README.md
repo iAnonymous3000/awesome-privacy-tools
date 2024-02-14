@@ -487,3 +487,212 @@ Cryptomator provides transparent, client-side encryption for your cloud files. I
 #### [Hat.sh](https://hat.sh/)
 Hat.sh is a web app for secure file encryption using AES-256-GCM. It operates entirely in your browser, encrypting files before they ever leave your computer. Hat.sh is simple, secure, and doesn't require any personal data or files to be
 uploaded to a server.
+
+### Beginner-Friendly Linux Distros
+
+#### [Pop!_OS](https://pop.system76.com/)
+Pop!_OS is developed by System76 for STEM and creative professionals. It emphasizes creativity and productivity within a secure and privacy-respecting environment. Based on Ubuntu, it offers an out-of-the-box experience with a minimal and elegant design.
+
+#### [Linux Mint](https://linuxmint.com/)
+Linux Mint is known for its simplicity, elegance, and full multimedia support right out of the box. It's an excellent choice for new users, coming with a variety of pre-installed software for everyday use. It's based on Ubuntu and Debian, offering a familiar environment with a unique Cinnamon desktop.
+
+### Anti-Virus
+
+#### [ClamTk](https://dave-theunsub.github.io/clamtk/)
+ClamTk is a graphical front-end for the ClamAV antivirus engine. It's designed to be an easy-to-use, on-demand scanner for Linux systems, providing a simple interface to scan files and directories for malware.
+
+#### [Hypatia Malware Scanner](https://github.com/Divested-Mobile/Hypatia)
+Hypatia is the first open-source, real-time malware scanner for Android, powered by ClamAV signatures. It's designed to detect over 450,000 malware signatures, providing substantial protection for Android devices.
+
+### Creator Tools
+
+#### [OBS Studio](https://obsproject.com/)
+OBS Studio is a free and open-source software for video recording and live streaming. It's available across multiple platforms and offers high performance with real-time video/audio capturing and mixing.
+
+#### [Liberapay](https://liberapay.com/)
+Liberapay is a donation platform that allows you to support creators and projects you appreciate. It's open-source and non-profit, focusing on recurrent donations without taking a cut from the donations.
+
+#### [Open Collective](https://opencollective.com/)
+Open Collective provides a platform for groups to manage their finances transparently. It's designed for open-source projects, community groups, and non-profits to receive donations and manage expenses openly.
+
+### Analytics
+
+#### [Plausible Analytics](https://plausible.io/)
+Plausible Analytics is a lightweight and privacy-friendly alternative to traditional web analytics. It doesn't use cookies and fully complies with GDPR, offering a simple and open-source solution for website analytics.
+
+#### [Matomo](https://matomo.org/)
+Matomo, formerly known as Piwik, is a comprehensive, open-source analytics platform. It offers full ownership of your analytics data, with privacy and security at its core. Matomo provides detailed reports without compromising user privacy.
+
+### Cryptocurrencies & Wallets
+
+#### [Monero](https://www.getmonero.org/)
+Monero is a privacy-focused cryptocurrency that ensures your transactions remain confidential and untraceable. It offers security, privacy, and fungibility by obscuring sender, recipient, and amount of every transaction made.
+
+#### [Zcash](https://z.cash/)
+Zcash offers privacy and selective transparency in transactions. It encrypts the contents of transactions while still allowing them to be verified under the network's consensus rules using zero-knowledge proofs.
+
+#### [Monero GUI Wallet](https://www.getmonero.org/downloads/)
+The official Monero desktop wallet, which provides a graphical interface for using Monero, allowing users to manage their funds and transactions with ease.
+
+#### [Cake Wallet](https://cakewallet.com/)
+Cake Wallet is a multi-featured Monero and Bitcoin wallet, providing a secure platform to store, exchange, and manage cryptocurrency assets directly from your smartphone.
+
+#### [Monerujo](https://www.monerujo.io/)
+Monerujo is an Android wallet for managing and using Monero, offering a user-friendly interface for accessing Monero's privacy features on mobile devices.
+
+### Hardware Wallet
+
+#### [Trezor Suite](https://suite.trezor.io/)
+Trezor Suite is a desktop and web application designed to work with Trezor hardware wallets. It provides a secure environment to manage, track, and trade your cryptocurrencies, enhancing user experience and security.
+
+### Email Client
+
+#### [Thunderbird](https://www.thunderbird.net/)
+Thunderbird is a free, open-source email client from Mozilla. It offers features like email, calendar, news, and chat functionality, focusing on user privacy and customization.
+
+#### [K-9 Mail](https://k9mail.app/)
+K-9 Mail is an open-source email client for Android that supports multiple accounts, search, IMAP push email, multi-folder sync, flagging, and more.
+
+### File Sharing & Syncing
+
+#### [OnionShare](https://onionshare.org/)
+OnionShare lets you securely and anonymously share files, host websites, and chat with friends using the Tor network. It creates a direct and encrypted connection between users, bypassing centralized servers.
+
+#### [Syncthing](https://syncthing.net/)
+Syncthing is an open
+
+-source tool for private, secure file synchronization. It allows you to synchronize files across multiple devices without the need for a central server, ensuring your data remains private.
+
+### Video Streaming
+
+#### [PeerTube](https://joinpeertube.org/)
+PeerTube is a decentralized video platform that uses peer-to-peer technology to reduce server load and increase privacy. It allows creators to host their videos and federate with other instances, promoting a decentralized video-sharing network.
+
+#### [TILvids](https://tilvids.com/)
+TILvids is a video community focusing on edutainment content. It's ad-free and relies on donations, providing an alternative platform for educational and informative videos.
+
+#### [Odysee](https://odysee.com/)
+Odysee is a content-sharing platform built on the lbry protocol, offering an alternative to traditional video platforms. It focuses on creator freedom and viewer choice, providing a decentralized solution for video sharing.
+
+### Mobile OS
+
+#### [GrapheneOS](https://grapheneos.org/)
+GrapheneOS is a privacy and security-focused mobile OS with Android app compatibility. It offers significant improvements in data protection, security, and app sandboxing, making it a strong choice for privacy-conscious users.
+
+#### [DivestOS](https://divestos.org/)
+DivestOS is a fork of LineageOS focused on privacy and security enhancements. It removes unnecessary proprietary blobs, patches known vulnerabilities, and includes privacy-focused apps and features.
+
+### Firewall
+
+#### [Portmaster](https://safing.io/portmaster/)
+Portmaster is a free, open-source privacy suite that provides network monitoring and application-level firewall capabilities. It allows users to control internet access for apps and monitor network activity.
+
+#### [pfSense](https://www.pfsense.org/)
+pfSense is a free, open-source firewall and router platform based on FreeBSD. It offers a flexible and powerful solution for network security, including VPN, traffic shaping, and network monitoring.
+
+#### [Gufw](http://gufw.org/)
+Gufw is an easy-to-use GUI for managing Ubuntu's Uncomplicated Firewall (UFW). It provides a simple interface for creating firewall rules and managing network traffic.
+
+#### [NetGuard](https://www.netguard.me/)
+NetGuard provides simple ways to block access to the internet per application, offering both privacy and data usage benefits. It's a no-root firewall for Android devices.
+
+### [AdGuard Home](https://adguard.com/en/adguard-home/overview.html)
+AdGuard Home is a network-wide software for blocking ads and tracking. It operates as a DNS server, providing a family-friendly internet experience without the need for client-side software.
+
+#### [Pi-hole](https://pi-hole.net/)
+Pi-hole is a network-level advertisement and tracking blocker that acts as a DNS sinkhole. It's designed for use on a private network and is effective at reducing unwanted content and improving network performance.
+
+### Router Firmware
+
+#### [OpenWrt](https://openwrt.org/)
+OpenWrt is a highly extensible GNU/Linux distribution for embedded devices (typically wireless routers). It provides a fully writable filesystem with package management, allowing for deep customization of network functions.
+
+### Productivity
+
+#### [LibreOffice](https://www.libreoffice.org/)
+LibreOffice is a powerful office suite that's compatible with other major office suites. It's open-source and available on all operating systems, offering tools for word processing, spreadsheets, presentations, and more.
+
+#### [ONLYOFFICE](https://www.onlyoffice.com/)
+ONLYOFFICE is an open-source office suite that provides online document editing, collaboration, and project management tools. It's compatible with MS Office formats and offers a secure environment for team collaboration.
+
+#### [CryptPad](https://cryptpad.fr/)
+CryptPad is a suite of privacy-focused, collaborative editing tools that encrypt your data before sending it to the server. It offers real-time collaboration without compromising user privacy.
+
+### Financial Support Platforms
+
+#### [Liberapay](https://liberapay.com/)
+Liberapay is a non-profit, open-source platform designed for recurrent donations. It enables individuals to financially support creators and projects they appreciate without requiring a cut of the donations. Liberapay emphasizes simplicity, privacy, and direct support between creators and supporters.
+
+#### [Open Collective](https://opencollective.com/)
+Open Collective is a transparency-focused platform that allows collectives, projects, and communities to manage their finances publicly. It supports open-source projects, community initiatives, and non-profits by providing tools for transparent financial management, including handling donations, expenses, and financial reporting. Open Collective helps groups raise funds in an open manner, ensuring donors can see exactly how their contributions are used.
+
+### Aliases
+
+#### [Privacy.com](https://privacy.com/)
+Privacy.com offers virtual card services allowing users to generate a new card for every purchase, ensuring security and control over online spending. It provides features like setting spending limits, creating one-time use cards, and merchant-specific cards. The service is designed to block unwanted charges, hidden fees, and forgotten subscriptions, saving users from compromised cards and unauthorized transactions. Privacy.com emphasizes user security and privacy, ensuring no personal information is compromised.
+
+#### [SMSPool](https://smspool.net/)
+SMSPool is an online SMS verification service that provides users with non-VoIP phone numbers to protect their personal information during online verifications. It helps users maintain their privacy by offering a way to receive SMS messages without disclosing their real phone numbers, suitable for various online services requiring phone verification.
+
+#### [MySudo](https://mysudo.com/)
+MySudo allows users to create multiple "Sudos," each with its own phone number and email address, for different aspects of their lives such as work, socializing, or online shopping. It offers a way to manage multiple identities, enhancing privacy and security online. Features include customized calling, enhanced messaging, simple email, and compartmentalized browsing, all aimed at protecting user privacy.
+
+#### [SimpleLogin](https://simplelogin.io/)
+SimpleLogin is an open-source service offering email alias creation to protect user privacy. It allows users to use aliases instead of their real email addresses, preventing spam and data breaches. SimpleLogin features include automatic alias creation, easy management, and the ability to send and reply to emails through aliases. It is designed for users seeking to protect their email communication and personal information.
+
+#### [Firefox Relay](https://relay.firefox.com/)
+Firefox Relay is a service provided by Mozilla that allows users to create temporary email aliases for online signups, protecting their real email addresses from spam and data breaches. It helps maintain user privacy by masking their actual email addresses with aliases, which can be easily managed or deleted. Firefox Relay emphasizes user privacy and control over their online presence.
+
+#### [addy.io](https://addy.co/)
+Addy.io is an anonymous email forwarding service that enables users to create email aliases to protect their privacy. It helps shield real email addresses from spam, tracking, and unauthorized access by providing a layer of anonymity. Users can manage aliases, deactivate or delete them if compromised, and even encrypt inbound emails using GPG/OpenPGP encryption for enhanced privacy and security.
+
+### Maps
+
+#### [OsmAnd](https://osmand.net/)
+OsmAnd is a map and navigation app that uses OpenStreetMap data. It offers offline and online navigation for driving, cycling, and walking. Features include voice guidance, route planning, and map viewing with detailed information like points of interest, street names, and topography.
+
+#### [Organic Maps](https://organicmaps.app/)
+Organic Maps is an open-source, privacy-focused navigation app ideal for hiking, biking, and driving. It uses OpenStreetMap data and focuses on offline map use, offering detailed guides, hiking trails, and cycling routes without tracking users' locations or collecting their data.
+
+#### [OpenStreetMap](https://www.openstreetmap.org/)
+OpenStreetMap is a collaborative project to create a free editable map of the world. It allows users to view, edit, and use geographical data in a collaborative way from anywhere on Earth. The data from OpenStreetMap is free to use under an open license.
+
+#### [Qwant Maps](https://www.qwant.com/maps/)
+Qwant Maps is a privacy-focused mapping service that uses OpenStreetMap data. It offers search and navigation features without tracking users, aligning with Qwant's mission to respect user privacy.
+
+### Link in Bio
+
+#### [BioDrop](https://biodrop.me/)
+BioDrop is a platform for tech professionals to create a single hub for showcasing their content, projects, and social media profiles. It helps users manage their online presence in one place while contributing to an open-source project and being part of a community.
+
+### Translate
+
+#### [Brave Translate](https://brave.com/)
+Brave Translate, integrated into the Brave browser, offers privacy-respecting translation of web pages into multiple languages. It ensures translations are performed locally on the device, protecting users' data from being sent to external servers.
+
+#### [Firefox Translations](https://addons.mozilla.org/en-US/firefox/addon/firefox-translations/)
+Firefox Translations is an add-on for Firefox that provides local, client-side translations of web content. It aims to offer privacy-friendly translations without sending data to external servers, supporting multiple languages.
+
+#### [LibreTranslate](https://libretranslate.com/)
+LibreTranslate is an open-source, self-hostable translation API that offers free and private translations. It supports multiple languages and can be integrated into various applications, providing a privacy-friendly alternative to traditional translation services.
+
+### Captcha
+
+#### [hCaptcha](https://www.hcaptcha.com/)
+hCaptcha is a privacy-focused captcha service that helps websites block bots and automated abuse. It offers a way to improve website security and user verification processes while also providing a revenue model for website operators.
+
+### Domain & Web Hosting
+
+#### [Njalla](https://njal.la/)
+Njalla is a privacy-aware domain registration service that purchases domains on behalf of its customers, providing an additional layer of anonymity. It offers various domain-related services with a focus on user privacy and security.
+
+#### [OrangeWebsite](https://www.orangewebsite.com/)
+OrangeWebsite offers green, privacy-focused web hosting and domain registration services. Based in Iceland, it benefits from strong data protection laws and uses renewable energy sources for its data centers.
+
+#### [1984 Hosting](https://www.1984hosting.com/)
+1984 Hosting is an Iceland-based web hosting provider emphasizing freedom of speech, privacy, and green hosting solutions. It offers various hosting services, including shared, VPS, and dedicated servers, using renewable energy.
+
+### Food
+
+#### [Open Food Facts](https://world.openfoodfacts.org/)
+Open Food Facts is a free, open database of food products worldwide, providing detailed information about nutritional facts, ingredients, allergens, and more. It's built by a community of volunteers and allows users to add new products, enhancing transparency and consumer knowledge about food products.
