@@ -26,7 +26,6 @@ Explore this curated selection of tools and take proactive steps towards securin
 - [Data Broker Removal Tool](#data-broker-removal-tool)
 - [Websites, Apps & Files Safety Check](#websites-apps--files-safety-check)
 - [Miscellaneous](#miscellaneous)
-- [Sandbox](#sandbox)
 - [Device Integrity Checker](#device-integrity-checker)
 - [Keyboard](#keyboard)
 - [Browser Comparison & Tests](#browser-comparison--tests)
@@ -111,11 +110,6 @@ Dangerzone allows you to take potentially dangerous PDFs, office documents, or i
 
 #### [12ft Ladder](https://12ft.io/)
 Offers a clever bypass for digital paywalls by allowing users to prepend `12ft.io/` to the URL of a paywalled page, attempting to provide access to the content behind it. Created in response to the negative impact of Google Adwords on web content quality, 12ft Ladder leverages the fact that news sites allow Google crawlers to bypass paywalls for indexing, enabling it to present users with the cached, unpaywalled version of the site.
-
-### Sandbox
-
-#### [SquareX](https://sqrx.com/)
-Ensures safety for users accessing files or websites by using disposable cloud environments. This method protects against malware or exploits within isolated sandboxes. After use, the environment can be disposed of, erasing all session data and ensuring user privacy and security.
 
 ### Device Integrity Checker
 
