@@ -686,6 +686,9 @@ OrangeWebsite offers green, privacy-focused web hosting and domain registration 
 #### [1984 Hosting](https://www.1984hosting.com/)
 1984 Hosting is an Iceland-based web hosting provider emphasizing freedom of speech, privacy, and green hosting solutions. It offers various hosting services, including shared, VPS, and dedicated servers, using renewable energy.
 
+#### [DarkVPS](https://darkvps.pro/) 
+Anonymous offshore VPS hosting with no KYC, strict no-log policy, cryptocurrency payments accepted.
+
 ### Food
 
 #### [Open Food Facts](https://world.openfoodfacts.org/)
