@@ -375,6 +375,9 @@ IVPN is a VPN service that prioritizes privacy and security, offering advanced f
 #### [Mozilla VPN](https://vpn.mozilla.org/)
 Mozilla VPN, powered by Mullvad, provides a secure and private internet connection on various devices. It emphasizes simplicity, device-wide encryption, and is backed by a non-profit fighting for your online privacy.
 
+#### [Party VPN](https://partyvpn.com/)
+Party VPN offers a privacy-focused VPN service with pay-as-you-go pricing and no subscriptions. It accepts cryptocurrency payments only (Bitcoin, Ethereum, Monero, and others). Has a strict no-logs policy and provides a REST API for developers who need programmatic VPN management.
+
 ### Anonymizing Networks
 
 #### [Tor](https://www.torproject.org/)
