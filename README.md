@@ -603,6 +603,9 @@ OpenWrt is a highly extensible GNU/Linux distribution for embedded devices (typi
 
 ### Productivity
 
+#### [ToolArks](https://toolarks.com/)
+ToolArks is a comprehensive, privacy-first online toolset for developers including JSON formatter/validator, JSON compare/diff, YAML editor, text/code diff tools, cron generator, time zone converter, and more. 100% client-side processing (no data uploaded).
+
 #### [LibreOffice](https://www.libreoffice.org/)
 LibreOffice is a powerful office suite that's compatible with other major office suites. It's open-source and available on all operating systems, offering tools for word processing, spreadsheets, presentations, and more.
 
