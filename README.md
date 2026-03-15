@@ -106,6 +106,12 @@ Exodus Privacy lets you know what trackers are embedded in apps installed on you
 #### [Dangerzone](https://dangerzone.rocks/)
 Dangerzone allows you to take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs.
 
+#### [PDFGem](https://pdfgem.io/)
+PDFGem is a free browser-based PDF tool suite offering merge, split, compress, and OCR capabilities. All processing runs client-side using WebAssembly—no files are uploaded to servers, ensuring complete privacy and security for your sensitive documents.
+
+#### [Vizua](https://vizua.io/)
+Vizua is a free, privacy-first image tool suite for compression, conversion, resizing, and watermarking. Powered by WebAssembly with 100% client-side processing, Vizua ensures your images never leave your device while providing professional-grade image manipulation features.
+
 ### Miscellaneous
 
 #### [12ft Ladder](https://12ft.io/)
