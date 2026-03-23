@@ -344,6 +344,9 @@ Joplin is an open-source note-taking and to-do application with capabilities for
 #### [Nextcloud Notes](https://nextcloud.com/notes/)
 Nextcloud Notes is a straightforward app for note-taking, integrated within the Nextcloud ecosystem. It supports markdown syntax and offers a clean, distraction-free interface for writing and organizing notes. With Nextcloud's focus on security and privacy, your notes benefit from the same level of protection as all your other Nextcloud data.
 
+#### [DailyVox](https://getdailyvox.com)
+DailyVox is a free, open-source AI voice diary for iPhone and iPad that runs 100% on-device. Voice transcription, sentiment analysis, mood tracking, and a Digital Twin personality model all process locally using Apple's NaturalLanguage and Speech frameworks. No servers, no accounts, no third-party SDKs. Apple App Store privacy label: "Data Not Collected." [Source code](https://github.com/intrepidkarthi/dailyvox).
+
 ### Video Conference
 
 #### [Calyx Meet](https://meet.calyxinstitute.org/)
