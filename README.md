@@ -534,6 +534,9 @@ Cake Wallet is a multi-featured Monero and Bitcoin wallet, providing a secure pl
 #### [Monerujo](https://www.monerujo.io/)
 Monerujo is an Android wallet for managing and using Monero, offering a user-friendly interface for accessing Monero's privacy features on mobile devices.
 
+#### [BitcoinVN](https://bitcoinvn.io/)
+BitcoinVN is a non-custodial instant exchange that supports privacy-focused cryptocurrencies including Monero (XMR), Bitcoin (with Lightning Network), and others. It enables crypto-to-crypto swaps without requiring account creation, meaning user funds are never held by the platform. Operating since 2014, it provides a straightforward way to acquire and exchange privacy coins.
+
 ### Hardware Wallet
 
 #### [Trezor Suite](https://suite.trezor.io/)
