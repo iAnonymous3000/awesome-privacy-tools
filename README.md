@@ -62,6 +62,7 @@ Explore this curated selection of tools and take proactive steps towards securin
 - [Creator Tools](#creator-tools)
 - [Financial Support Platforms](#financial-support-platforms)
 - [Analytics](#analytics)
+- [Cookie Consent & Compliance](#cookie-consent--compliance)
 - [Cryptocurrencies & Wallets](#cryptocurrencies--wallets)
 - [Email Client](#email-client)
 - [File Sharing & Syncing](#file-sharing--syncing)
@@ -516,6 +517,12 @@ Plausible Analytics is a lightweight and privacy-friendly alternative to traditi
 
 #### [Matomo](https://matomo.org/)
 Matomo, formerly known as Piwik, is a comprehensive, open-source analytics platform. It offers full ownership of your analytics data, with privacy and security at its core. Matomo provides detailed reports without compromising user privacy.
+
+### Cookie Consent & Compliance
+
+#### [Best Consent Management Platforms](https://github.com/JermainKroot/best-consent-management-platforms)
+
+An independent, hands-on comparison of 9 consent management platforms (CMPs) — including OneTrust, Cookiebot, Iubenda, My Agile Privacy, Didomi, and others — tested on over 25 real websites over 3 months. Evaluates GDPR and ePrivacy compliance accuracy, setup complexity, performance impact, TCF 2.x and Google Consent Mode v2 support, and pricing. No affiliate links or sponsored content — purely experience-based.
 
 ### Cryptocurrencies & Wallets
 
