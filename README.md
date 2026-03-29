@@ -341,6 +341,9 @@ Notesnook is a private, encrypted notes app that keeps your notes organized and 
 #### [Joplin](https://joplinapp.org/)
 Joplin is an open-source note-taking and to-do application with capabilities for end-to-end encryption. It supports note organization into notebooks, synchronization with various cloud services, and offers extensive markdown support. Joplin is a versatile tool for note-taking and project management, prioritizing data privacy and user control.
 
+
+#### [MiniWiki](https://github.com/wellsa-ai/miniwiki)
+MiniWiki is a privacy-first personal wiki that stores everything locally with end-to-end encryption by default (ChaCha20-Poly1305 + HMAC-SHA256 with 100,000 iterations). It works 100% offline with zero network calls, supports [[wikilinks]] with auto-generated backlinks, and features full-text search with Korean tokenization. Available for iOS, Android, and macOS via Flutter. MIT licensed and fully open source.
 #### [Nextcloud Notes](https://nextcloud.com/notes/)
 Nextcloud Notes is a straightforward app for note-taking, integrated within the Nextcloud ecosystem. It supports markdown syntax and offers a clean, distraction-free interface for writing and organizing notes. With Nextcloud's focus on security and privacy, your notes benefit from the same level of protection as all your other Nextcloud data.
 
