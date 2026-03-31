@@ -612,6 +612,9 @@ ONLYOFFICE is an open-source office suite that provides online document editing,
 #### [CryptPad](https://cryptpad.fr/)
 CryptPad is a suite of privacy-focused, collaborative editing tools that encrypt your data before sending it to the server. It offers real-time collaboration without compromising user privacy.
 
+#### [ConvertPrivately](https://convertprivately.com)
+ConvertPrivately is a privacy-first file conversion and utility platform with 250+ tools for PDFs, images, documents, and data. Almost all tools run directly in the browser with no file uploads or tracking, with a clear warning for the few that require server-side processing.
+
 ### Financial Support Platforms
 
 #### [Liberapay](https://liberapay.com/)
