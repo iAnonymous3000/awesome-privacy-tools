@@ -274,6 +274,9 @@ PhotoPrism is an AI-powered photo app for organizing and sharing your photos pri
 #### [Piwigo](https://piwigo.org/)
 Piwigo is an open-source photo gallery software for the web, offering powerful features to publish and manage your collection of pictures securely. It provides a customizable platform for photographers, organizations, and teams to store, categorize, and share their photos with flexibility and control over privacy.
 
+#### [Fluranto Remove Image Metadata](https://www.fluranto.com/en/image/remove-image-metadata)
+Browser-based tool to remove EXIF and image metadata locally in your browser. No signup required, privacy-first, and files are processed client-side.
+
 ### Secure QR Code Scanner
 
 #### [Binary Eye](https://github.com/markusfisch/BinaryEye)
