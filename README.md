@@ -192,6 +192,9 @@ SearXNG is a privacy-respecting, open-source metasearch engine that aggregates r
 Leo, Brave's AI-powered assistant, offers users the ability to interact with web content in novel ways, such as summarizing pages or answering questions directly within the browser. It prioritizes privacy, not using chats for model
 training or sharing them.
 
+#### [Typer](https://typer.space)
+Typer is a free local AI chat app for macOS (Apple Silicon) that runs entirely on-device. No account required, no data sent to any server, no ads. Works fully offline with on-device web search.
+
 ### Password Manager
 
 #### [Bitwarden](https://bitwarden.com/)
