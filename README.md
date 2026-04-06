@@ -628,6 +628,9 @@ Privacy.com offers virtual card services allowing users to generate a new card f
 #### [SMSPool](https://smspool.net/)
 SMSPool is an online SMS verification service that provides users with non-VoIP phone numbers to protect their personal information during online verifications. It helps users maintain their privacy by offering a way to receive SMS messages without disclosing their real phone numbers, suitable for various online services requiring phone verification.
 
+#### [VerifySMS](https://verifysms.app/)
+VerifySMS provides non-VoIP carrier virtual phone numbers from 150+ countries for SMS verification on platforms like WhatsApp, Telegram, Discord, Google, Instagram, and TikTok. Users can protect their real phone number when signing up for online services. Features include automatic refunds if the SMS does not arrive, pay-as-you-go pricing starting at $0.10 per number, 15 language support, and a native iOS app. No personal data required beyond email for signup.
+
 #### [MySudo](https://mysudo.com/)
 MySudo allows users to create multiple "Sudos," each with its own phone number and email address, for different aspects of their lives such as work, socializing, or online shopping. It offers a way to manage multiple identities, enhancing privacy and security online. Features include customized calling, enhanced messaging, simple email, and compartmentalized browsing, all aimed at protecting user privacy.
 
