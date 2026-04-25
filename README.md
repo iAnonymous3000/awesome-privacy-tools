@@ -690,3 +690,4 @@ OrangeWebsite offers green, privacy-focused web hosting and domain registration 
 
 #### [Open Food Facts](https://world.openfoodfacts.org/)
 Open Food Facts is a free, open database of food products worldwide, providing detailed information about nutritional facts, ingredients, allergens, and more. It's built by a community of volunteers and allows users to add new products, enhancing transparency and consumer knowledge about food products.
+- [KeyboardTester.click WebRTC Leak Test](https://keyboardtester.click/webrtc-leak-test.php) - Free browser-based WebRTC IP leak detector. Verifies VPN setups by reporting public IP, local IPs, and IPv6 leaks via STUN.
