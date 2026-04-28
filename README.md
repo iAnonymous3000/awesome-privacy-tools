@@ -98,7 +98,7 @@ DeleteMe, offered by Abine, is a subscription service that assists users in remo
 VirusTotal is an online service that allows users to scan files and URLs for malware using multiple antivirus engines. It provides additional information about each scanned file and offers a premium API for integration into other security products and services. Acquired by Google in 2012.
 
 #### [Blacklight Privacy Inspector](https://themarkup.org/blacklight)
-Blacklight Privacy Inspector lets you know who is peeking over your shoulder while you work, watch videos, learn, explore, and shop on the internet. Enter the address of any website, and Blacklight will scan it and reveal the specific user-tracking technologies on the site—and who’s getting your data. You may be surprised at what you learn.
+Blacklight Privacy Inspector lets you know who is peeking over your shoulder while you work, watch videos, learn, explore, and shop on the internet. Enter the address of any website, and Blacklight will scan it and reveal the specific user-tracking technologies on the siteâand whoâs getting your data. You may be surprised at what you learn.
 
 #### [Exodus Privacy](https://exodus-privacy.eu.org/)
 Exodus Privacy lets you know what trackers are embedded in apps installed on your smartphone. It also informs you about the permissions required by any apps on your smartphone. Please note that the app can only detect apps installed from the Google Play store.
@@ -107,6 +107,8 @@ Exodus Privacy lets you know what trackers are embedded in apps installed on you
 Dangerzone allows you to take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs.
 
 ### Miscellaneous
+#### [Remove Audio](https://remove-audio.com)
+A free browser-based tool to strip audio from video files. Runs locally via WebAssembly and FFmpeg.wasm — your files never leave your device. No account, no uploads, no watermarks.
 
 #### [12ft Ladder](https://12ft.io/)
 Offers a clever bypass for digital paywalls by allowing users to prepend `12ft.io/` to the URL of a paywalled page, attempting to provide access to the content behind it. Created in response to the negative impact of Google Adwords on web content quality, 12ft Ladder leverages the fact that news sites allow Google crawlers to bypass paywalls for indexing, enabling it to present users with the cached, unpaywalled version of the site.
@@ -303,7 +305,7 @@ Codeberg offers a non-profit, community-driven platform for hosting open-source 
 ### Torrenting
 
 #### [qBittorrent](https://www.qbittorrent.org/)
-qBittorrent is a free and open-source torrent client, designed as an alternative to µTorrent. It offers a µTorrent-like user interface with a comprehensive set of features including search engine integration, torrent queueing, prioritization, and IP filtering, making it a versatile solution for torrent downloading.
+qBittorrent is a free and open-source torrent client, designed as an alternative to ÂµTorrent. It offers a ÂµTorrent-like user interface with a comprehensive set of features including search engine integration, torrent queueing, prioritization, and IP filtering, making it a versatile solution for torrent downloading.
 
 ### Social Networks
 
