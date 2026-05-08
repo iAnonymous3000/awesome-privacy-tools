@@ -448,6 +448,9 @@ NewPipe is a lightweight YouTube frontend for Android, designed for privacy and 
 #### [Invidious](https://invidio.us/)
 Invidious is an alternative front-end to YouTube that prioritizes privacy and minimalism. It allows users to watch videos without ads and tracking, providing a cleaner, more focused viewing experience. Invidious is open-source and can be self-hosted.
 
+#### [InstaPV](https://www.instapv.ai/)
+InstaPV is an anonymous Instagram viewer for public stories, posts, reels, highlights and recent-followed timelines. It requires no login, no password and leaves no trace on the target account, allowing private browsing of public Instagram content without exposing your own identity to Meta.
+
 ### Android App Stores
 
 #### [F-Droid](https://f-droid.org/)
