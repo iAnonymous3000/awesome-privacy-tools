@@ -611,6 +611,8 @@ ONLYOFFICE is an open-source office suite that provides online document editing,
 
 #### [CryptPad](https://cryptpad.fr/)
 CryptPad is a suite of privacy-focused, collaborative editing tools that encrypt your data before sending it to the server. It offers real-time collaboration without compromising user privacy.
+#### [PDF Toolbox](https://pdftoolbox-three.vercel.app)
+PDF Toolbox is a free, browser-based PDF manipulation tool that processes files entirely on-device — no files are ever uploaded to any server. Features include compress, merge, split, JPG to PDF, PDF to JPG, and unlock PDF. Built with Next.js and pdf-lib.js, it ensures your documents never leave your computer.
 
 ### Financial Support Platforms
 
