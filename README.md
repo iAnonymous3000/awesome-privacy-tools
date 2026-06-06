@@ -25,6 +25,11 @@ Explore this curated selection of tools and take proactive steps towards securin
 - [Check for Breaches](#check-for-breaches)
 - [Data Broker Removal Tool](#data-broker-removal-tool)
 - [Websites, Apps & Files Safety Check](#websites-apps--files-safety-check)
+
+#### [Vaultool](https://vaultool.com)
+
+A collection of 50+ free online tools (PDF, image, developer utilities) where all processing happens client-side in the browser using PDF.js, Canvas API, SubtleCrypto, and Web Workers. Files never leave the user's device. No signup required.
+
 - [Miscellaneous](#miscellaneous)
 - [Device Integrity Checker](#device-integrity-checker)
 - [Keyboard](#keyboard)
