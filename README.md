@@ -274,6 +274,10 @@ PhotoPrism is an AI-powered photo app for organizing and sharing your photos pri
 #### [Piwigo](https://piwigo.org/)
 Piwigo is an open-source photo gallery software for the web, offering powerful features to publish and manage your collection of pictures securely. It provides a customizable platform for photographers, organizations, and teams to store, categorize, and share their photos with flexibility and control over privacy.
 
+
+#### [FreePNGConvert](https://freepngconvert.com/)
+FreePNGConvert is a privacy-focused WebP to PNG converter that processes images entirely in your browser. No files are uploaded to any server, making it ideal for users who want to convert image formats without compromising their privacy. Free, unlimited, no registration required.
+
 ### Secure QR Code Scanner
 
 #### [Binary Eye](https://github.com/markusfisch/BinaryEye)
