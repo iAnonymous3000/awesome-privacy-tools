@@ -344,6 +344,9 @@ Joplin is an open-source note-taking and to-do application with capabilities for
 #### [Nextcloud Notes](https://nextcloud.com/notes/)
 Nextcloud Notes is a straightforward app for note-taking, integrated within the Nextcloud ecosystem. It supports markdown syntax and offers a clean, distraction-free interface for writing and organizing notes. With Nextcloud's focus on security and privacy, your notes benefit from the same level of protection as all your other Nextcloud data.
 
+#### [LogZero](https://logzero.app/)
+LogZero is a private, offline-first life and habit tracker for iOS that combines a mood journal, daily logs, to-dos, and health and wellness tracking in a single app. All data is stored on-device with AES-256 encryption and no account, no ads, and no analytics or telemetry, so nothing about you leaves your iPhone or iPad. With optional user-controlled encrypted exports and a local correlation engine for weekly insights, LogZero offers a privacy-respecting alternative to cloud-based journaling and tracking apps.
+
 ### Video Conference
 
 #### [Calyx Meet](https://meet.calyxinstitute.org/)
