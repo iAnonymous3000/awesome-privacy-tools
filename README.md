@@ -104,6 +104,8 @@ Blacklight Privacy Inspector lets you know who is peeking over your shoulder whi
 Exodus Privacy lets you know what trackers are embedded in apps installed on your smartphone. It also informs you about the permissions required by any apps on your smartphone. Please note that the app can only detect apps installed from the Google Play store.
 
 #### [Dangerzone](https://dangerzone.rocks/)
+#### [FreePNGConvert](https://freepngconvert.com/)
+Convert WebP images to PNG entirely in your browser. No uploads to any server — all processing happens client-side for maximum privacy.
 Dangerzone allows you to take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs.
 
 ### Miscellaneous
