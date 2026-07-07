@@ -341,6 +341,9 @@ Notesnook is a private, encrypted notes app that keeps your notes organized and 
 #### [Joplin](https://joplinapp.org/)
 Joplin is an open-source note-taking and to-do application with capabilities for end-to-end encryption. It supports note organization into notebooks, synchronization with various cloud services, and offers extensive markdown support. Joplin is a versatile tool for note-taking and project management, prioritizing data privacy and user control.
 
+#### [OATS](https://github.com/ariso-ai/oats)
+OATS is an open-source macOS meeting-notes app with live transcription, speaker labels, and AI summaries. It supports a fully offline, on-device mode on Apple Silicon, helping users keep meeting audio and notes local instead of sending them to cloud services.
+
 #### [Nextcloud Notes](https://nextcloud.com/notes/)
 Nextcloud Notes is a straightforward app for note-taking, integrated within the Nextcloud ecosystem. It supports markdown syntax and offers a clean, distraction-free interface for writing and organizing notes. With Nextcloud's focus on security and privacy, your notes benefit from the same level of protection as all your other Nextcloud data.
 
