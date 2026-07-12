@@ -612,6 +612,9 @@ ONLYOFFICE is an open-source office suite that provides online document editing,
 #### [CryptPad](https://cryptpad.fr/)
 CryptPad is a suite of privacy-focused, collaborative editing tools that encrypt your data before sending it to the server. It offers real-time collaboration without compromising user privacy.
 
+#### [OnDevicePDF](https://www.ondevicepdf.com/)
+OnDevicePDF is a free suite of 25+ browser-based PDF tools (merge, split, compress, OCR, sign, redact, convert). Most tools process files entirely on-device with no upload and no account required, and the site publishes a per-tool data-handling page disclosing the one tool that can use a temporary, auto-deleted backend for advanced edits.
+
 ### Financial Support Platforms
 
 #### [Liberapay](https://liberapay.com/)
