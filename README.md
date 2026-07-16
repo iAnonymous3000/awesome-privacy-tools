@@ -192,6 +192,9 @@ SearXNG is a privacy-respecting, open-source metasearch engine that aggregates r
 Leo, Brave's AI-powered assistant, offers users the ability to interact with web content in novel ways, such as summarizing pages or answering questions directly within the browser. It prioritizes privacy, not using chats for model
 training or sharing them.
 
+#### [Avelina AI](https://avelina.ai)
+Avelina is a self-hosted personal AI assistant that runs on your own server and lives in your Telegram. All its memory and data stay on your machine — nothing leaves your server except the model API calls you choose. A privacy-first alternative to cloud AI assistants, with persistent long-term memory, a voice and an evolving personality.
+
 ### Password Manager
 
 #### [Bitwarden](https://bitwarden.com/)
