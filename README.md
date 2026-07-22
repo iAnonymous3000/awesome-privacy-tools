@@ -511,6 +511,9 @@ Open Collective provides a platform for groups to manage their finances transpar
 
 ### Analytics
 
+#### [Apstal](https://apstal.com/)
+Apstal is an AI-first web analytics platform with session replay, adblock-resistant server-side tracking, and a conversational AI assistant. It offers a free forever tier and a Premium plan at $48/month.
+
 #### [Plausible Analytics](https://plausible.io/)
 Plausible Analytics is a lightweight and privacy-friendly alternative to traditional web analytics. It doesn't use cookies and fully complies with GDPR, offering a simple and open-source solution for website analytics.
 
