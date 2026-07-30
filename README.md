@@ -169,6 +169,9 @@ This extension allows users to separate their online activities into color-coded
 #### [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 Designed to limit Facebook's ability to track your activity across the web, the Facebook Container extension isolates your Facebook identity into a separate container. This makes it harder for Facebook to track your visits to other websites with third-party cookies.
 
+#### [PRAX9](https://lamama0.github.io/prax9/)
+PRAX9 is a free proxy manager and switcher for Chrome. It lets you save multiple HTTP, HTTPS, SOCKS4, and SOCKS5 proxy servers, switch between them with one click, and route only specific domains through a proxy instead of tunneling all traffic. No ads, no telemetry.
+
 ### Search Engines
 
 #### [Brave Search](https://search.brave.com/)
