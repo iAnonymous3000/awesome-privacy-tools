@@ -24,6 +24,7 @@ Explore this curated selection of tools and take proactive steps towards securin
 
 - [Check for Breaches](#check-for-breaches)
 - [Data Broker Removal Tool](#data-broker-removal-tool)
+- [Content Takedown](#content-takedown)
 - [Websites, Apps & Files Safety Check](#websites-apps--files-safety-check)
 - [Miscellaneous](#miscellaneous)
 - [Device Integrity Checker](#device-integrity-checker)
@@ -91,6 +92,11 @@ Mozilla Monitor allows users to check if their email addresses have been part of
 
 #### [DeleteMe](https://joindeleteme.com/)
 DeleteMe, offered by Abine, is a subscription service that assists users in removing their personal information from data broker websites. It actively monitors and removes personal data from these sites to help users reclaim their online privacy.
+
+### Content Takedown
+
+#### [LinksGone](https://www.linksgone.com/)
+LinksGone is a free tool that prepares the correct platform-specific removal notice for deepfakes, non-consensual intimate images, and online impersonation, which the victim then files in their own name. Users share only links, never images, and intimate-image cases are routed to StopNCII (for adults) or NCMEC's Take It Down (for minors) first.
 
 ### Websites, Apps & Files Safety Check
 
