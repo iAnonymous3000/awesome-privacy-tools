@@ -84,6 +84,10 @@ Explore this curated selection of tools and take proactive steps towards securin
 #### [Have I been pwned?](https://haveibeenpwned.com/)
 Have I been pwned? is a widely trusted platform that allows users to check if their email addresses or accounts have been compromised in data breaches. It aggregates data from various breaches and provides users with information on which breaches their email addresses have appeared in.
 
+#### [Leaax](https://leaax.com)
+
+Leaax checks whether your AI chat conversations (ChatGPT, Claude, Gemini, Grok, DeepSeek, Copilot, Qwen) have been publicly shared and indexed by search engines, and whether your email appears in known data breaches. Free, no signup required, and nothing is stored — results are shown as a simple traffic-light score.
+
 ### Data Broker Removal Tool
 
 #### [Mozilla Monitor](https://monitor.firefox.com/)
