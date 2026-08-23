@@ -55,6 +55,7 @@ Explore this curated selection of tools and take proactive steps towards securin
 - [Android App Stores](#android-app-stores)
 - [Android app compatibility on de-Googled devices](#android-app-compatibility-on-de-googled-devices)
 - [File Encryption](#file-encryption)
+- [File Conversion](#file-conversion)
 - [DNS](#dns)
 - [Team Collaboration](#team-collaboration)
 - [Beginner Friendly Linux Distros](#beginner-friendly-linux-distros)
@@ -466,6 +467,12 @@ Accrescent is a private and secure Android app store built for the modern era, f
 
 #### [Techlore Plexus](https://plexus.techlore.tech/)
 Techlore Plexus is a resource that removes the fear of Android app compatibility on de-Googled devices, offering a database of apps with information on their functionality without Google services.
+
+### File Conversion
+
+#### [AI convertly](https://aiconvertly.online)
+
+AI convertly is a free, browser-based toolkit for converting PDFs, images, audio, and video, plus two AI-powered enhancement tools. All processing happens entirely client-side — files are never uploaded to a server, and there's no account or sign-up required.
 
 ### File Encryption
 
