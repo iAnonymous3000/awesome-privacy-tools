@@ -274,6 +274,9 @@ PhotoPrism is an AI-powered photo app for organizing and sharing your photos pri
 #### [Piwigo](https://piwigo.org/)
 Piwigo is an open-source photo gallery software for the web, offering powerful features to publish and manage your collection of pictures securely. It provides a customizable platform for photographers, organizations, and teams to store, categorize, and share their photos with flexibility and control over privacy.
 
+#### [ShrinkKit](https://p32929.github.io/shrinkkit/)
+ShrinkKit is a bulk image compressor that runs entirely inside the browser, so photos are never uploaded to any server. It compresses, resizes and converts a whole folder of images at once and strips EXIF and GPS metadata as part of the re-encode, which makes it a quick way to sanitise location data out of phone photos before sharing them. It is a single static HTML file with no tracking or analytics and keeps working offline after the first load.
+
 ### Secure QR Code Scanner
 
 #### [Binary Eye](https://github.com/markusfisch/BinaryEye)
