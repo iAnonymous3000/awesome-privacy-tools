@@ -106,6 +106,9 @@ Exodus Privacy lets you know what trackers are embedded in apps installed on you
 #### [Dangerzone](https://dangerzone.rocks/)
 Dangerzone allows you to take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs.
 
+#### [File Converter](https://fileontap.com/)
+FileOnTap is a free browser-local image and PDF converter. Processing stays on your device, so files are not uploaded, and no account is required.
+
 ### Miscellaneous
 
 #### [12ft Ladder](https://12ft.io/)
