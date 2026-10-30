@@ -251,6 +251,9 @@ Proton Mail offers secure, encrypted email services, with servers located in Swi
 #### [Tutanota](https://tutanota.com/)
 Tutanota provides a highly secure email service with end-to-end encryption for emails, contacts, and calendars. It offers a privacy-focused alternative to mainstream email providers, with open-source clients and a commitment to not tracking users. Tutanota's encrypted calendar and easy-to-use interface cater to both personal and professional use, emphasizing user privacy and data security.
 
+#### [VaelMail](https://vaelmail.com/)
+VaelMail is a privacy-first webmail service designed to eliminate personal data collection and mandatory phone verification. Accounts authenticate using deterministic 16-digit account keys with Argon2id hashing and optional WebAuthn passkeys. Based in Sweden. Free accounts include 50 MB receive-only mailbox storage and persistent @vael.pw aliases to isolate third-party registrations. The platform offers ingress via standard HTTPS, an official Tor v3 onion service, and a lightweight scriptless No-JS webmail mirror (nojs.vaelmail.com). Plus tier upgrades support native Monero (XMR) and Bitcoin payments.
+
 ### Calendar
 
 #### [Proton Calendar](https://proton.me/calendar)
