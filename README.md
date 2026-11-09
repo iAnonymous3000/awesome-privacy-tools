@@ -581,6 +581,9 @@ DivestOS is a fork of LineageOS focused on privacy and security enhancements. It
 #### [Portmaster](https://safing.io/portmaster/)
 Portmaster is a free, open-source privacy suite that provides network monitoring and application-level firewall capabilities. It allows users to control internet access for apps and monitor network activity.
 
+#### [iotaudit](https://github.com/emirmrkaljevic/iotaudit)
+iotaudit is a free, open-source CLI that passively audits what smart home devices on your own network send. It asks for consent, stays fully local, and writes a graded one-page report per device (destinations, encryption, open ports).
+
 #### [pfSense](https://www.pfsense.org/)
 pfSense is a free, open-source firewall and router platform based on FreeBSD. It offers a flexible and powerful solution for network security, including VPN, traffic shaping, and network monitoring.
 
