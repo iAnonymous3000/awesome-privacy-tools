@@ -169,6 +169,9 @@ This extension allows users to separate their online activities into color-coded
 #### [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 Designed to limit Facebook's ability to track your activity across the web, the Facebook Container extension isolates your Facebook identity into a separate container. This makes it harder for Facebook to track your visits to other websites with third-party cookies.
 
+#### [truediscount](https://github.com/emirmrkaljevic/truediscount)
+truediscount is a free, open-source browser extension and userscript that checks whether an EU shop discount is measured against the shop's lowest price of the last 30 days (Omnibus rule). Price history stays on your device, with no account, no tracking, and nothing sent anywhere.
+
 ### Search Engines
 
 #### [Brave Search](https://search.brave.com/)
